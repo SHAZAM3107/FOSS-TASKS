@@ -6,7 +6,7 @@ from email.mime.text import MIMEText     # this module is used to add subject or
 from email.mime.multipart import MIMEMultipart
 
 
-from_addr=config.EMAIL_ADRESS   # giving from adress from config.py
+from_addr=config.EMAIL_ADDRESS   # giving from adress from config.py
 
 password=config.PASSWORD   # giving password
 

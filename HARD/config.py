@@ -1,2 +1,2 @@
-EMAIL_ADRESS="pavankumar31072000@gmail.com"
+EMAIL_ADDRESS="pavankumar31072000@gmail.com"
 PASSWORD="murthygayatri"

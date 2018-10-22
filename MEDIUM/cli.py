@@ -1,3 +1,4 @@
+from PIL import Image
 availableitems=['asus zenfone','honor 7a','samsung galaxy s9','oppo f9','vivo v11']
 price=['10000','11000','9000','50000','15000']
 price=list(map(int,price))
@@ -30,3 +31,6 @@ if x=="yes":
 else:
     print("the total amount payable after discount is "+str(s))
 print("Choose a payment option:\n1)credit card\n2)debit card\n3)net banking")
+img=Image.open("1.jpg")
+img.show()
+img.close()
